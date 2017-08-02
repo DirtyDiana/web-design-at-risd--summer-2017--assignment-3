@@ -2,6 +2,7 @@ h6 {
    bottom: 0;
    right: 0;
    Position: fixed;
+   color: pink;
 }
 
 html {
@@ -11,8 +12,7 @@ html {
 h3 {
    font-size: 30pt;
 }
-div { background-color: pink;
-   color: white;
+div {
    word-wrap;
 }
 
@@ -32,11 +32,8 @@ padding-top: 100px;
 
 }
 
+
 @font-face {
   font-family: "Kimberley";
   src: url(http://www.https://fonts.google.com/?selection.family=Lobster.ttf) format("truetype");
-}
-
-div {
-   padding-bottom: 40px;
 }
